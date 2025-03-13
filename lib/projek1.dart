@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget {
         backgroundColor: Colors.blue,
       ),
       body: const Center(
-        child: Text('Selamat datang disini :)'),
+        child: Text('Selamat Pagi'),
       ),
     );
   }
