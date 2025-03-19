@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/projek1.dart';
+import 'package:flutter_application_1/ProfilePage.dart';
+import 'Home.dart';
 
 void main() {
   runApp(const MyApp());
@@ -33,6 +34,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home:HomePage(),
+
     );
   }
 }
